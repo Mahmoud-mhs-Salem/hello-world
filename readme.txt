@@ -1,0 +1,1 @@
+Welcome! Type, Paste, or Open the text you wish to search, then use the filter options at the top of the window.hello
